@@ -11,3 +11,5 @@ The analysis consists of a series of steps that we went through one by one, whic
 5. Pretrained Models (Fine-Tuning): Using Fine-Tuning techniques on a pretrained model.
 6. Data Augmentation (Optional): Using data augmentation on the dataset.
 7. Conclusion: Drawing conclusions based on the results obtained, deciding which of the trained models could be deployed in production for use.
+
+The model classifies dog race based on images.
